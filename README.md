@@ -27,6 +27,7 @@ The game is played on a 3x3 grid. The cells are numbered **1 through 9**, starti
  4 | 5 | 6
 ---|---|---
  7 | 8 | 9
+```
 When prompted, enter the number corresponding to the position where you want to place your mark (X or O).
 
 Game Modes
@@ -38,14 +39,17 @@ Multiplayer: Player O goes first vs. Player X.
 Prerequisites: You need to have Python installed on your machine.
 
 1. Clone the repository:
+```
 git clone [https://github.com/Yashika-28/tictactoe-minimax.git](https://github.com/Yashika-28/tictactoe-minimax.git)
-
+```
 2. Navigate to the project directory:
+```
 cd tictactoe-minimax
-
-3. Run the script:
+```
+4. Run the script:
+```
 python main.py
-
+```
 🧠 Under the Hood: The AI
 The single-player mode uses the Minimax Algorithm. This is a recursive backtracking algorithm used in decision theory and game theory.
 
