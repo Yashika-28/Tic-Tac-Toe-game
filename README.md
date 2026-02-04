@@ -40,7 +40,7 @@ Prerequisites: You need to have Python installed on your machine.
 
 1. Clone the repository:
 ```
-git clone [https://github.com/Yashika-28/tictactoe-minimax.git](https://github.com/Yashika-28/tictactoe-minimax.git)
+git clone https://github.com/Yashika-28/tictactoe-minimax.git
 ```
 2. Navigate to the project directory:
 ```
